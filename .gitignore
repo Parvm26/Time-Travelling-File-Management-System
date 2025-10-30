@@ -1,0 +1,17 @@
+# Compiled binaries
+file_system
+*.exe
+*.out
+
+# Test files
+test_*.txt
+
+# Object files
+*.o
+*.obj
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
